@@ -42,7 +42,10 @@ Subs baseline Sep 24: AI Sidekick 73 · BodyTruth 15 · Kids 2.
 
 Ranked by monetization odds; effort follows the ranking. Binding constraint across
 all channels is **discovery (CTR), not content quality** — e.g. Man City Short held
-83% AVD but only 1.7% browse CTR. Unblock #1: phone-verify channels for custom thumbnails.
+83% AVD but only 1.7% browse CTR. Unblock #1 (2026-10-01 check): Dark Files, AI Sidekick,
+BodyTruth already phone-verified — custom thumbnails unlocked. Happy Kids Hub still
+blocked: +1 646-228-7956 hit YouTube's 2-accounts-per-number/year limit; needs a
+different number to verify.
 
 - **Dark Case Files = lead horse.** @crimecasesus carbon-copy Shorts at 2–3/week; EP02
   built from whichever Short wins (Sodder/Short03 is the current blueprint).

@@ -38,15 +38,32 @@ Subs baseline Sep 24: AI Sidekick 73 · BodyTruth 15 · Kids 2.
 - [ ] First channel to 1,000 subs → **apply for YPP**
 - [ ] First monetized channel 🎉
 
+## Focus plan (approved by owner 2026-10-01)
+
+Ranked by monetization odds; effort follows the ranking. Binding constraint across
+all channels is **discovery (CTR), not content quality** — e.g. Man City Short held
+83% AVD but only 1.7% browse CTR. Unblock #1: phone-verify channels for custom thumbnails.
+
+- **Dark Case Files = lead horse.** @crimecasesus carbon-copy Shorts at 2–3/week; EP02
+  built from whichever Short wins (Sodder/Short03 is the current blueprint).
+- **AI Sidekick Sports = news desk, not studio.** Breaking-news Shorts only (cheap, fast);
+  long-form reserved for tentpoles.
+- **BodyTruth = cheap lottery ticket.** Batch rides its schedule; source citations added
+  to all four descriptions (YMYL defense). Reassess after 48h reads.
+- **Happy Kids Hub = finish the experiment, then decide.** kids05 live with 12h/48h checks;
+  kids01–04 ride their schedule. No new kids builds until data lands.
+- **Outlier rule:** anything that pops gets cloned within days — same topic shape, new case.
+
 ## What's next (by channel)
 
-- **AI Sidekick Sports** — keep the 2–3 videos/week cadence (previews + drama Shorts);
-  Carrick crisis Short awaiting owner review; title-race long-form v2 awaiting post-or-cancel.
+- **AI Sidekick Sports** — breaking-news Shorts as stories break; title-race long-form v2
+  awaiting post-or-cancel; Carrick crisis Short scheduled Oct 9.
 - **Dark Case Files** — Short04/05/06 scheduled; EP02 (Sodder, from winning Short03) concept
   awaiting review; EP01 7-day analytics due Oct 3.
-- **Happy Kids Hub** — kids01–04 scheduled; next rhyme must be owner-verified BEFORE production.
-- **BodyTruth** — body01–04 scheduled; body04 awaiting owner's rating; premium formula to roll
-  out to future videos once rated.
+- **Happy Kids Hub** — kids01–04 scheduled; kids05 12h/48h stat checks running; no new
+  builds until kids05 data lands.
+- **BodyTruth** — body01–04 scheduled with source citations in descriptions; body04
+  awaiting owner's rating.
 
 ## Constraints & dates to watch
 

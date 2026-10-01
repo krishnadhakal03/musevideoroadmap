@@ -1,6 +1,6 @@
 # 🟢 Published videos (cross-channel)
 
-> Last updated: 2026-10-01 (NPT)
+> Last updated: 2026-10-01 (NPT) — kids05 "Boom Boom Animals" published on user's post signal
 
 | Date | Channel | Title | URL | Stats (latest) |
 |---|---|---|---|---|
@@ -9,5 +9,6 @@
 | 2026-09-29 | Dark Case Files | Two Men Wore LEAD MASKS Up a Hill in 1966… and Were NEVER Seen Alive Again 😱 | https://youtube.com/shorts/0PhyTJdzeG8 | 6 views, 33.3% stayed |
 | 2026-09-29 | Dark Case Files | 5 Children VANISHED From a Burning House on Christmas Eve… No Bones Were EVER Found 😱 🏆 | https://youtube.com/shorts/yjAEis1GgkQ | 22–23 views, 71.4% stayed, AVD 0:44 |
 | 2026-09-30 | AI Sidekick Sports | Man City Found GUILTY of 114 Charges 😱 \| Expulsion Next? #Shorts | https://youtube.com/shorts/P5uRB5jFivg | 279 views (16h), +2 subs, 0:23 AVD |
+| 2026-10-01 | Happy Kids Hub | Boom Boom Animals! 🦁🐰🐟🐘 \| Animal Dance Song for Kids #Shorts | https://youtube.com/shorts/VewIYNjxAj0 | LIVE 12:36 PM ET on user signal; 12h check Oct 2 10:21 AM NPT; 48h check Oct 3 10:21 PM NPT |
 
 🏆 = current channel winner / strategy driver.

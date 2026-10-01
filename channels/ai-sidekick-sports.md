@@ -1,6 +1,6 @@
 # ⚽ AI Sidekick Sports
 
-> Last updated: 2026-10-01 (NPT)
+> Last updated: 2026-10-01 (NPT) — Carrick sack Short scheduled Fri Oct 9 12:00 PM ET
 
 - **Handle:** @AISidekickHQ
 - **Account:** krishnadhakal03@gmail.com
@@ -21,12 +21,12 @@
 | 4 | 3 Reasons Spurs Walk Into a Trap at Old Trafford | https://youtube.com/shorts/q7NzeuF-OCQ | Short | 🟡 SCHEDULED | 2026-10-10 11:00 AM NPT (1:15 AM ET) | — |
 | 5 | Arsenal Fans: 'This Is Our Year' Every Season 😭 | https://youtube.com/shorts/HxcIiQQgjl4 | Short | 🟡 SCHEDULED | 2026-10-11 11:00 AM NPT (1:15 AM ET) | — |
 | 6 | Man City vs Arsenal: Who Wins the Premier League? 🏆 | https://youtu.be/XJ0LQylQ7B0 | Long-form (v2) | 🟡 SCHEDULED — owner: "much better", no changes needed | 2026-10-10 10:00 AM ET (7:45 PM NPT) | — |
-| 7 | Carrick Will Be SACKED If United Lose to Spurs 😱 | — | Short | ⚪ BUILT, not uploaded — awaiting owner review | proposed Fri Oct 9 ~8 PM ET | — |
+| 7 | Carrick Will Be SACKED If United Lose to Spurs 😱 #Shorts | https://youtube.com/shorts/k6M2LwvB1UU | Short | 🟡 SCHEDULED | 2026-10-09 12:00 PM ET (9:45 PM NPT) | — |
 
 **Notes:**
 - #6 v1 was deleted and replaced by v2 (animated league table, crests, charts, Pexels
   clips) after owner feedback "static content only". v2 is the new visual baseline.
-- #7 overlaps thematically with #4 (UTD-Spurs preview) — owner decision needed.
+- #7 sequenced day-before-match (Fri noon ET) ahead of #4's match-day preview — sack narrative Friday, trap preview Saturday.
 - Prior 48h winners: "Spurs crisis" Short 1,157 views / +2 subs; "Liverpool injuries"
   Short 385 views / 2:04 AVD (looping). Full analysis: local
   `goals/premier-league-youtube-channel/hidden_files/stats-2026-10-01-48h.md`.

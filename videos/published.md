@@ -9,7 +9,7 @@
 | 2026-09-29 | Dark Case Files | Two Men Wore LEAD MASKS Up a Hill in 1966… and Were NEVER Seen Alive Again 😱 | https://youtube.com/shorts/0PhyTJdzeG8 | 6 views, 33.3% stayed |
 | 2026-09-29 | Dark Case Files | 5 Children VANISHED From a Burning House on Christmas Eve… No Bones Were EVER Found 😱 🏆 | https://youtube.com/shorts/yjAEis1GgkQ | 22–23 views, 71.4% stayed, AVD 0:44 |
 | 2026-09-30 | AI Sidekick Sports | Man City Found GUILTY of 114 Charges 😱 \| Expulsion Next? #Shorts | https://youtube.com/shorts/P5uRB5jFivg | 279 views (16h), +2 subs, 0:23 AVD |
-| 2026-10-01 | Happy Kids Hub | Boom Boom Animals! 🦁🐰🐟🐘 \| Animal Dance Song for Kids #Shorts | https://youtube.com/shorts/VewIYNjxAj0 | LIVE 12:36 PM ET on user signal; 12h: 4 views, 0 likes, 33s AVD (86.5%), only 1 view via Shorts feed — retention elite, discovery ~zero; 48h check Oct 3 10:21 PM NPT |
+| 2026-10-01 | Happy Kids Hub | Boom Boom Animals! 🦁🐰🐟🐘 \| Animal Dance Song for Kids #Shorts | https://youtube.com/shorts/VewIYNjxAj0 | LIVE 12:36 PM ET on user signal; 12h: 4 views, 0 likes, 33s AVD (86.5%), only 1 view via Shorts feed — retention elite, discovery ~zero; 48h check Oct 3 10:21 PM NPT; comments disabled (made-for-kids, COPPA) — no pinned engagement comment possible |
 | 2026-10-02 | AI Sidekick Sports | John Terry's BRUTAL Chelsea Verdict 😬 #Shorts | https://youtube.com/shorts/bdjM_8QacdY | LIVE ~09:58 NPT on user signal; copyright clean |
 
 🏆 = current channel winner / strategy driver.

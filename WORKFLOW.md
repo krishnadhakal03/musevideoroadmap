@@ -1,6 +1,6 @@
 # 🔁 Workflow — Video Production Pipeline
 
-> Last updated: 2026-10-01 (NPT)
+> Last updated: 2026-10-02 (NPT)
 
 ## Diagram
 
@@ -15,7 +15,8 @@ flowchart TD
     G --> H{"👀 OWNER REVIEW<br/>post or cancel?"}
     H -->|POST| I["🚀 PUBLIC"]
     H -->|CANCEL| J["🗑️ DELETE / REWORK"]
-    I --> K["📊 ANALYZE<br/>(views, retention, subs,<br/>traffic sources)"]
+    I --> P["📌 ENGAGE<br/>(post + pin an engagement<br/>question as the channel —<br/>only where comments enabled)"]
+    P --> K["📊 ANALYZE<br/>(views, retention, subs,<br/>traffic sources)"]
     K --> L["💡 IMPROVISE<br/>(double down on winners,<br/>fix losers)"]
     L --> A
     J --> A
@@ -33,6 +34,7 @@ flowchart TD
 | 🧪 QA | Slice-transcribe the actual mix (all sentences once, in order). Frame checks: hook/mid/end. ffprobe verify. Thumbnail safe-zone previews. | Mix integrity, caption legibility, thumbnail TV-safe. |
 | 📤 Upload | As **scheduled** draft at a researched US-optimal slot. Verify `krishna.dhakal03@gmail.com` + correct channel first. Compress to <100MB. | Audience, altered-content, playlist, thumbnail, copyright checks clean. |
 | 👀 Review | Owner watches and gives per-video **post or cancel**. | — |
+| 📌 Engage | Right after going public: post an engagement question as the channel and **pin it** (e.g. "Which one shocked you most? 👇"). Small nudge for comment signals — standard on every post. | Only where comments are enabled — **never on made-for-kids videos** (YouTube disables comments there; COPPA). |
 | 📊 Analyze | 24h/48h/7d pulls: views, AVD, % stayed, likes, subs, traffic sources. | Log to `stats/YYYY-MM-DD.md`. |
 | 💡 Improvise | Winners get sequels and formula reuse; losers get diagnosed. | Update channel strategy notes. |
 

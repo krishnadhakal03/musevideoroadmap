@@ -3,7 +3,7 @@
 > Last updated: 2026-10-02 (NPT) — Terry/Chelsea Short published on user signal
 
 | Channel | Working title | Stage | Blocker / next step | Local files |
-| Dark Case Files | Short07 v2 (rebuild): real mugshots + case-file stat cards + caption safe-area fix + custom thumbnail | 🔨 Rebuilding (subagent) | Owner review verdict 2026-10-03: needs trust elements, arranged stats, caption fix | `dark-files/shorts/short07v2_*` |
+| Dark Case Files | Short07 v2 (rebuild): real mugshots + case-file stat cards + caption safe-area fix + custom thumbnail | ✅ Built, scheduled as v2 (replaced v1) | Owner review on YouTube → post-or-cancel | `dark-files/shorts/short07v2_upload.mp4` |
 | AI Sidekick Sports | Carrick Will Be SACKED If United Lose to Spurs 😱 | ⚪ Built, NOT uploaded | Owner review; overlaps thematically with scheduled UTD-Spurs preview (#4) — owner decision needed | `epl-gw6/output/carrick_crisis_short.mp4` |
 | Dark Case Files | EP02: 5 Children Vanished on Christmas Eve… and No Bones Were EVER Found | ⚪ Concept drafted | Owner review before ANY production/spend (Flow/Veo on hold) | `goals/dark-case-files-youtube-channel-launch/hidden_files/ep02-concept-from-winning-short.md` |
 

@@ -3,7 +3,7 @@
 > Last updated: 2026-10-02 (NPT) — Terry/Chelsea Short published on user signal
 
 | Channel | Working title | Stage | Blocker / next step | Local files |
-| Dark Case Files | Short07: Top 5 Serial Killers Who Got the HARSHEST Punishments 😱 | 🔨 Building (subagent) | Clones Short05's winning pipeline; Berkowitz + Wuornos facts verify-before-script | `dark-files/shorts/short07_*` |
+| Dark Case Files | Short07: Top 5 Serial Killers Who Got the HARSHEST Punishments 😱 | ⚪ Built, NOT uploaded (70.5s, QA passed) | Owner video review → schedule signal | `dark-files/shorts/short07_upload.mp4` |
 | AI Sidekick Sports | Carrick Will Be SACKED If United Lose to Spurs 😱 | ⚪ Built, NOT uploaded | Owner review; overlaps thematically with scheduled UTD-Spurs preview (#4) — owner decision needed | `epl-gw6/output/carrick_crisis_short.mp4` |
 | Dark Case Files | EP02: 5 Children Vanished on Christmas Eve… and No Bones Were EVER Found | ⚪ Concept drafted | Owner review before ANY production/spend (Flow/Veo on hold) | `goals/dark-case-files-youtube-channel-launch/hidden_files/ep02-concept-from-winning-short.md` |
 

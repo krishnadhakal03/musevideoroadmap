@@ -5,6 +5,7 @@
 
 | Go-live (ET) | Go-live (NPT) | Channel | Title | URL | Owner signal |
 |---|---|---|---|---|
+| 2026-10-04 12:00 PM | 2026-10-04 9:45 PM | Dark Case Files | Top 5 Serial Killers Who Got the HARSHEST Punishments 😱 | https://youtube.com/shorts/wPTtSCyK4DA | ⏳ post-or-cancel (owner reviewing on YouTube) |
 | 2026-10-01 8:00 PM | 2026-10-02 5:45 AM | Dark Case Files | Ed Gein — the Plainfield Butcher (v2) | https://youtube.com/shorts/yV0LsTn24bI | ✅ "Looks perfect" — goes live automatically |
 | 2026-10-02 5:00 PM | 2026-10-03 2:45 AM | BodyTruth | Brain & sleep facts | https://youtube.com/shorts/wYx1SzSsx-s | ⏳ post-or-cancel |
 | 2026-10-03 10:00 AM | 2026-10-03 7:45 PM | Happy Kids Hub | — | https://www.youtube.com/shorts/156JjZJe2M0 | ⏳ post-or-cancel |

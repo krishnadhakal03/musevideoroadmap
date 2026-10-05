@@ -14,6 +14,7 @@
 | 2026-10-04 5:00 PM | 2026-10-05 2:45 AM | BodyTruth | Coffee facts | https://youtube.com/shorts/aeSVNjBapTI | ⏳ post-or-cancel |
 | 2026-10-05 7:00 AM | 2026-10-05 4:45 PM | Happy Kids Hub | — | https://www.youtube.com/shorts/L2j9F-s_B0k | ⏳ post-or-cancel |
 | 2026-10-05 12:00 PM | 2026-10-05 9:45 PM | BodyTruth | Why You Yawn Has NOTHING to Do With Oxygen 😮‍💨 #Shorts | https://youtube.com/shorts/hoRW_YkX0jg | ⏳ awaiting rating |
+| 2026-10-05 12:00 PM | 2026-10-05 9:45 PM | AI Sidekick Sports | Man City Found GUILTY on 114 of 115 Charges 😱 What Happens Next? | https://youtube.com/shorts/mRWuyLFF-Uc | ⏳ scheduled draft — owner reviewing vs Sep 30 cut (295 views) before go-live |
 | 2026-10-08 4:15 AM | 2026-10-08 2:00 PM | AI Sidekick Sports | EPL Gameweek 6 Previews | https://youtu.be/hfRmohifnmA | ⏳ post-or-cancel |
 | 2026-10-09 4:15 AM | 2026-10-09 2:00 PM | AI Sidekick Sports | 3 Reasons Arsenal vs Leeds Is MUST-WIN | https://youtube.com/shorts/plszPAt5fn0 | ⏳ post-or-cancel |
 | 2026-10-09 12:00 PM | 2026-10-09 9:45 PM | AI Sidekick Sports | Carrick Will Be SACKED If United Lose to Spurs 😱 #Shorts | https://youtube.com/shorts/k6M2LwvB1UU | ⏳ post-or-cancel |
